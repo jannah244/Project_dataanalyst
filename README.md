@@ -8,4 +8,4 @@ The Fitness dashboard is a visual representation that helps us understand what f
 Dataset: The dataset used for this project is called "DIET_EXERCISE_FITNESS," and it can be found on Kaggle.
 
 The objective of this project could include:
-•	Identify the factors that are most correlated with fitness analysis.
+To dentify the factors that are most correlated with fitness analysis.
