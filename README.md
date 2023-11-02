@@ -6,6 +6,6 @@ This project was completed by me using Excel and Power BI to analyze and visuali
 The Fitness dashboard is a visual representation that helps us understand what factors are most connected to the fitness and overall well-being.
 
 Dataset: The dataset used for this project is called "DIET_EXERCISE_FITNESS," and it can be found on Kaggle.
-Objective:
+
 The objective of this project could include:
 •	Identify the factors that are most correlated with fitness analysis.
